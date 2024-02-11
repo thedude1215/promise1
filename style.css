@@ -1,0 +1,14 @@
+body{ 
+ background-color: rgb(235, 108, 108);
+}
+
+p{ 
+   font-family: cursive;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+   font-size: 2rem;
+   padding: 19rem;
+}
+
